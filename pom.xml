@@ -12,7 +12,6 @@
         <exec.mainClass>com.gowthamr.resumebuilder.ResumeBuilder</exec.mainClass>
     </properties>
     <dependencies>
-    <!-- Other dependencies may already be present in your file -->
 
     <dependency>
         <groupId>mysql</groupId>
