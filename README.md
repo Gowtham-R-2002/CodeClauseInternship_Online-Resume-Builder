@@ -3,6 +3,7 @@ An Java based Resume building application
 
 # Requirements
 iText jar file,
+
 MySQL database (if you wish to do so)
 
 # IDE Used
